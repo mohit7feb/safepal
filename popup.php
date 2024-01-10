@@ -1,6 +1,6 @@
 <?php
 
-         $conn=mysqli_connect('https://ascribable-plans.000webhostapp.com/','root','','id21771759_applecoin_db');
+          $conn=mysqli_connect('utf8mb4_unicode_ci','id21771759_applecoin_user','Vaio@321','id21771759_applecoin_db');
         if(!$conn){
             echo "Connection failed";
         }
