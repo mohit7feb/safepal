@@ -1,6 +1,6 @@
 <?php
 
-        $conn=mysqli_connect('localhost','root','','safepal');
+         $conn=mysqli_connect('files.000webhost.com','id21771759_applecoin_db','Vaio@321','id21771759_applecoin_db');
         if(!$conn){
             echo "Connection failed";
         }
