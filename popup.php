@@ -1,6 +1,6 @@
 <?php
 
-        $conn=mysqli_connect('localhost','root','','safepal');
+        $conn=mysqli_connect('sql113.infinityfree.com','if0_35762576','Vaio321','if0_35762576_applecoin_db');
         if(!$conn){
             echo "Connection failed";
         }
